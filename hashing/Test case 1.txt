@@ -1,0 +1,35 @@
+11 Inserts:
+
+map.put(17, 1);
+map.put(24, 2);
+map.put(35, 3);
+map.put(45, 4);
+map.put(84, 5);
+map.put(85, 6);
+map.put(58, 7);
+map.put(20, 8);
+map.put(65, 9);
+map.put(39, 10);
+map.put(30, 11);
+
+8 Searches:
+
+map.get(24);
+map.get(35);
+map.get(45);
+map.get(84);
+map.get(20);
+map.get(65);
+map.get(39);
+map.get(30);
+
+8 Deletes:
+
+map.remove(24);
+map.remove(35);
+map.remove(30);
+map.remove(20);
+map.remove(45);
+map.remove(39);
+map.remove(65);
+map.remove(84);
